@@ -23666,3 +23666,49 @@ tests | <b>0</b> | The more tests a plugin has, the better
   <span style="color: #a03030">(no GitHub link provided in gemspec)</span>
 
 </p>
+
+-----
+
+<div class="quality-index" style="color: #ff6666">0</div>
+
+<h3 id="clang_tools"><a href="https://github.com/tianhaoz95/fastlane-plugin-flutter_version" target="_blank"><code>flutter_version</code></a></h3>
+
+<p class="via-text">via Tianhao Zhou</p>
+
+> A utility to retrieve Flutter app version for deployment usage.
+
+
+<details>
+<summary class="plugin-actions">Provided actions</summary>
+
+ Name | Category | Description
+------|----------|------------
+  **flutter_version** | deployment | Retrieves Flutter app version information from `pubspec.yaml`
+
+</details>
+
+
+<details>
+<summary class="score-details">Score details</summary>
+
+ Metric | Points | Description
+--------|--------|-------------
+contributors | <b>0</b> | The more contributors a project has, the more likely it is it stays alive
+subscribers | <b>0</b> | More subscribers = more popular project
+stars | <b>0</b> | More stars = more popular project
+forks | <b>0</b> | More forks = more people seem to use/modify this project
+has_mit_license | <b>0</b> | fastlane is MIT licensed, it's good to have plugins use MIT too
+readme_score | <b>0</b> | How well is the README of the document written
+age | <b>0</b> | Project that have been around for longer tend to be more stable
+major_release | <b>0</b> | Post 1.0 releases are great
+github_issues | <b>0</b> | Lots of open issues are not a good sign usually, unless the project is really popular
+downloads | <b>0</b> | More downloads = more users have been using the plugin for a while
+tests | <b>0</b> | The more tests a plugin has, the better
+ 
+</details>
+
+<p>
+
+  <a href="https://github.com/tianhaoz95/fastlane-plugin-flutter_version" target="_blank">Open on GitHub</a>
+
+</p>
